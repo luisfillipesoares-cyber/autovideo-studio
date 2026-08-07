@@ -1,6 +1,10 @@
 # 🎬 AutoVideo Studio
 
 <p align="center">
+  <img src="docs/demo.gif" width="900">
+</p>
+
+<p align="center">
   <strong>An open-source Python framework for AI-powered short-form video creation.</strong>
 </p>
 
